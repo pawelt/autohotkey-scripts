@@ -1,4 +1,4 @@
-autohotkey-scripts
+Autohotkey scripts
 ==================
 
 This is a collection of [Autohotkey](http://autohotkey.com) scripts I collected over the years.
